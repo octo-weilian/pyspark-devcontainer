@@ -1,3 +1,3 @@
 # pyspark-devcontainer
-PySpark VS code devcontainer 
+PySpark + Apache Sedona VS code devcontainer 
 
